@@ -1,2 +1,0 @@
-# SalesInvoiceGenerator
-First Commit
